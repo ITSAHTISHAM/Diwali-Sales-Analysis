@@ -14,6 +14,13 @@ The project is organized as follows:
 - **images/**: Directory containing images and plots generated during the analysis.
 - **README.md**: This file, providing an overview of the project.
 
+## Screenshots
+
+![Screenshot (8)](https://github.com/user-attachments/assets/a256328f-6cc6-40b8-a9b4-e78c3bff947c)
+![Screenshot (9)](https://github.com/user-attachments/assets/e659d1ef-e678-4ab2-9745-e7099b65b7b3)
+![Screenshot (10)](https://github.com/user-attachments/assets/a1f9dd94-b80a-45e0-957f-6f0c703f9aa5)
+![Screenshot (11)](https://github.com/user-attachments/assets/a1c72d88-235f-457e-b891-5ef7cb7cdcfe)
+
 ## Installation and Setup
 To run the analysis, you'll need the following installed:
 

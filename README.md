@@ -60,8 +60,5 @@ The Diwali Sales Analysis provides valuable insights into sales performance, cus
 - **Customer Segmentation**: Segmenting customers based on purchasing behavior for targeted marketing.
 - **Time Series Analysis**: Analyzing sales data over time to identify seasonal trends and patterns.
 
-## Acknowledgements
-[Acknowledge any data sources, libraries, or individuals who contributed to the project.]
-
 ## Contact
 For any questions or feedback, feel free to contact me at mohdahtishamulhasan369@gmail.com
